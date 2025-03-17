@@ -38,3 +38,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Creating Next App
 
 ![Image](https://github.com/user-attachments/assets/10548fb5-d427-4271-aa93-f92cfb34738a)
+
+
+## Creating New Next App route
+
+![Image](https://github.com/user-attachments/assets/e92c681f-f1e1-4789-8399-30e6ab960570)
