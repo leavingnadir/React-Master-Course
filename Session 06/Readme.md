@@ -55,11 +55,11 @@ and then push using the remote name
 
 
 <h1>Commands</h1>
-git remote add origin https://github.com/leavingnadir/Cinescope-Dashboard.git
-git status
-git remote -v
-git branch -M main
-git push -u origin main
+git remote add origin https://github.com/leavingnadir/Cinescope-Dashboard.git<br>
+git status<br>
+git remote -v<br>
+git branch -M main<br>
+git push -u origin main<br>
 
 ________________________________________________________________________
 info: please complete authentication in your browser...
