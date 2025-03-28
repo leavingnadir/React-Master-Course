@@ -1,4 +1,4 @@
-##Command 01
+<h1>Command 01</h1>
 
 winget install --id Git.Git -e --source winget
 
@@ -12,7 +12,7 @@ Successfully verified installer hash
 The installer will request to run as administrator, expect a prompt.
 Successfully installed
 
-##Command 02
+<h1>Command 02</h1>
 
 git init
 
@@ -25,7 +25,7 @@ At line:1 char:1
     + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
     + FullyQualifiedErrorId : CommandNotFoundException
 
-##Command 03
+<h1>Command 03</h1>
 
 git push
 
@@ -41,7 +41,7 @@ At line:1 char:1
 PS H:\cinescope-dashboard>
  *  History restored 
 
-##Command 04
+<h1>Command 04</h1>
 
 git push
 
@@ -54,7 +54,7 @@ and then push using the remote name
     git push <name>
 
 
-##Commands
+<h1>Commands</h1>
 git remote add origin https://github.com/leavingnadir/Cinescope-Dashboard.git
 git status
 git remote -v
